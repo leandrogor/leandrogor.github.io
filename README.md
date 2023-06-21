@@ -25,6 +25,7 @@
 
 # Technologies & Frameworks
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/leandrogor)
+[![.NET](https://img.shields.io/badge/net%20framework-black?style=for-the-badge&logo=dotnet)](https://github.com/leandrogor)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/leandrogor)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/leandrogor)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/leandrogor)
@@ -40,6 +41,9 @@
     </a>
     <a href="https://github.com/leandrogor">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=leandrogor&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/leandrogor">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrogor&theme=transparent" />
     </a>
   </p>
 </details>
